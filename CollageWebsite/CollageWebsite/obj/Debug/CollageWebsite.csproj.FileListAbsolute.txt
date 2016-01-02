@@ -24,3 +24,29 @@ c:\users\aaron\documents\visual studio 2013\Projects\CollageWebsite\CollageWebsi
 c:\users\aaron\documents\visual studio 2013\Projects\CollageWebsite\CollageWebsite\obj\Debug\CollageWebsite.csprojResolveAssemblyReference.cache
 c:\users\aaron\documents\visual studio 2013\Projects\CollageWebsite\CollageWebsite\obj\Debug\CollageWebsite.dll
 c:\users\aaron\documents\visual studio 2013\Projects\CollageWebsite\CollageWebsite\obj\Debug\CollageWebsite.pdb
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\CollageWebsite.dll.config
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\CollageWebsite.dll
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\CollageWebsite.pdb
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\Antlr3.Runtime.dll
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.Helpers.dll
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.Mvc.dll
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.Optimization.dll
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.Razor.dll
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.WebPages.dll
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\WebGrease.dll
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.Helpers.xml
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.Mvc.xml
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.Optimization.xml
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.Razor.xml
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.WebPages.xml
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\obj\Debug\CollageWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\obj\Debug\CollageWebsite.dll
+C:\Users\Aaron Yerman\Downloads\Projects\Collagewebsite\CollageWebsite\CollageWebsite\obj\Debug\CollageWebsite.pdb

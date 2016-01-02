@@ -2,10 +2,50 @@
     ViewBag.Title = "Index";
 }
 
-
 <div class="overlay">
-    <h2>Collage The Band</h2>
+    <h2 class="text-center">Collage The Band</h2>
     <div class="bandinfo">
+        <div class="row">
+            <div class="col-sm-offset-1 col-sm-10 text-center">
+                High energy dance/party band based out of Cleveland, Ohio featuring an mix of pop, rock & dance favorites (80's to current). We play local clubs, corporate & private events, and weddings offering a combination of live music, DJ, and emcee services; along with our top notch sound and lighting system to enhance our performance. Below is a current list of our songs.
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+                <p class="trigger"><a href="#">Current Song List</a></p>
+                <div class="toggle_container">
+                    <div class="block">
+                        <p>Content goes here.</p>
+                    </div>
+                </div>
+                <br />
+                <p class="trigger"><a href="#">Current Band Members</a></p>
+                <div class="toggle_container">
+                    <div class="block">
+                        <ul>
+                            <li>Aaron Yerman - Lead Vocals</li>
+                            <li>Bobbie Yerman - Keyboard and Vocals</li>
+                            <li>Tony Yerman - Bass and Vocals</li>
+                            <li>Tim Blue - Keyboard and Vocals</li>
+                            <li>Tommy Fiore - Lead Guitar</li>
+                            <li>John Carr - Vocals/Drums</li>
+                        </ul>
+                    </div>
+                </div>
+                <br />
+                <p class="trigger"><a href="#">Upcoming Events</a></p>
+                <div class="toggle_container">
+                    <div class="block text-center">
+                        <div class="fb-page" data-href="https://www.facebook.com/collageband.ctb/?fref=ts" data-tabs="events" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/collageband.ctb/?fref=ts"><a href="https://www.facebook.com/collageband.ctb/?fref=ts">CollageBand Cle</a></blockquote></div></div>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="col-sm-offset-2 col-sm-8 mediaplayer">
+                <iframe width="80" height="265" scrolling="no" frameborder="no" src="https://www.reverbnation.com/widget_code/html_widget/artist_1983574?widget_id=55&pwc[included_songs]=1&context_type=page_object&spoid=artist_1983574&pwc[size]=small" style="width:0px;min-width:100%;max-width:100%;"></iframe>
+            </div>
+        </div>
         <div class="row linkHolder">
             <a href="https://www.facebook.com/collageband.ctb/?fref=ts" target='_blank'><img src="@Url.Content("~/Content/Images/fb-art.jpg")" class="linkImages" /></a>
             <a href="https://twitter.com/CollageBandCLE" target='_blank'><img src="@Url.Content("~/Content/Images/twitter.png")" class="linkImages" style="width:45px !important;height:45px !important;" /></a>

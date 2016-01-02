@@ -1,11 +1,10 @@
-﻿html { 
-    
+﻿html {
 }
 
 body {
     padding-top: 50px;
     padding-bottom: 20px;
-  background: url(../../Content/Images/CollageBrewco.jpg) no-repeat center center fixed;
+  background: url(../../Content/Images/CollageBrewco2.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -17,10 +16,12 @@ body {
   opacity: 0.95;
 }
  .linkHolder{ 
-    display:block;
-    position:absolute;
-    bottom:5px;
-    right:30px;
+    position: fixed;
+    bottom: 80px;
+    right: 80px;
+ }
+
+ .mediaplayer{
  }
 
 .linkImages{
@@ -41,10 +42,22 @@ body {
     width: calc(40vw - 20px);
     height: 90%;
     right:50px;
-    text-align:center;
+    border-radius: 25px;
     color:#808080;
     top: 30px;
     cursor: default;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+
+::-webkit-scrollbar {
+    width: 0px;  /* remove scrollbar space */
+    background: transparent;  /* optional: just make scrollbar invisible */
+}
+/* optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
 }
 
 .bandinfo{
@@ -64,4 +77,20 @@ select,
 textarea {
     max-width: 280px;
 }
+p.trigger{
+    margin-bottom:7px;
+    margin-top:-5px;
+}
 
+.toggle_container{
+    margin-bottom:10px;
+}
+
+.toggle_container p{
+    margin:0px;
+}
+
+.toggle_container{
+    clear: both;
+    font-size:100%;
+}
