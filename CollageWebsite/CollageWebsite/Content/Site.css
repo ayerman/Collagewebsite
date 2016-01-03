@@ -19,9 +19,14 @@ body {
     position: fixed;
     bottom: 80px;
     right: 80px;
+    z-index: 1 !important;
  }
 
  .mediaplayer{
+    position: fixed;
+    bottom: 0px;
+    left: 20px;
+    z-index: 1 !important;
  }
 
 .linkImages{
@@ -37,7 +42,7 @@ body {
 .overlay {
     position: absolute;
     padding: 10px;
-    z-index: 1000;
+    z-index: 0;
     background: #1d1818;
     width: calc(40vw - 20px);
     height: 90%;
