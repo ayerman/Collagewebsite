@@ -100,6 +100,8 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Images\background1.jpg" />
+    <Content Include="Content\Images\Collage-Logo.png" />
     <Content Include="Content\Images\fb-art.jpg" />
     <Content Include="Content\Images\twitter.png" />
     <Content Include="Content\Site.css" />
